@@ -180,11 +180,11 @@
 
 ### Dell OptiPlex 3060 ![Turn On:2022](https://img.shields.io/badge/Turn%20On-2022-brightgreen?style=flat-square)
 
-> 目前已重置，待重新投入使用。
+> 重新建设中，用于获取和处理各种 RSS 信息。
 
-![Windows:11](https://img.shields.io/badge/Windows-11-brightgreen?style=flat-square&logo=microsoft) ![CPU:Intel I3-9100T](https://img.shields.io/badge/CPU-Intel%20I3%209100T(4C4T,%203.10GHz)-brightgreen?style=flat-square&logo=amd) ![RAM:16G](https://img.shields.io/badge/RAM-16GB-brightgreen?style=flat-square) ![Disk:512GB](https://img.shields.io/badge/Disk-512GB-brightgreen?style=flat-square) ![LAN:1000M](https://img.shields.io/badge/LAN-1000M-brightgreen?style=flat-square) ![WiFi:802.11ac](https://img.shields.io/badge/WiFi-802.11ac-brightgreen?style=flat-square)
+![ESXi:6.7u3](https://img.shields.io/badge/ESXi-6.7u3-brightgreen?style=flat-square&logo=vmware) ![Ubuntu:22.04](https://img.shields.io/badge/Ubuntu-22.04-brightgreen?style=flat-square&logo=ubuntu) ![Windows:11](https://img.shields.io/badge/Windows-11-brightgreen?style=flat-square&logo=microsoft) ![CPU:Intel I3-9100T](https://img.shields.io/badge/CPU-Intel%20I3%209100T(4C4T,%203.10GHz)-brightgreen?style=flat-square&logo=amd) ![RAM:16G](https://img.shields.io/badge/RAM-16GB-brightgreen?style=flat-square) ![Disk:512GB](https://img.shields.io/badge/Disk-512GB-brightgreen?style=flat-square) ![LAN:1000M](https://img.shields.io/badge/LAN-1000M-brightgreen?style=flat-square) ![WiFi:802.11ac](https://img.shields.io/badge/WiFi-802.11ac-brightgreen?style=flat-square)
 
-已重置，待重新投入使用。
+重新建设中，用于获取和处理各种 RSS 信息。
 
 ### Lenovo 9000K ![Turn On:2023](https://img.shields.io/badge/Turn%20On-2023-brightgreen?style=flat-square)
 
@@ -235,8 +235,8 @@ ECC RAM 保障密集计算时，数据绝对正确，线程足够多即使对比
 
 - [官方设备规格链接](https://ark.intel.com/content/www/us/en/ark/products/190104/intel-nuc-9-extreme-kit-nuc9i5qnx.html)
 - 相关文章记录
-    - 《[廉价的全闪存雷电 NAS 折腾笔记：组网方案的选择](https://soulteary.com/2023/09/12/cheap-pure-flash-thunderbolt-nas-tossing-notes-nuc9-operating-system-pitfalls.html)》
     - 《[廉价的全闪存雷电 NAS 折腾笔记：组网方案的选择](https://soulteary.com/2023/08/31/cheap-pure-flash-thunderbolt-nas-tossing-notes-the-choice-of-networking-solutions.html)》
+    - 《[廉价的全闪存雷电 NAS 折腾笔记：NUC9 操作系统踩坑](https://soulteary.com/2023/09/12/cheap-pure-flash-thunderbolt-nas-tossing-notes-nuc9-operating-system-pitfalls.html)》
 
 
 👉 [完整说明](./handbook/items-in-use/computing.md) / **简要说明** 👇 
