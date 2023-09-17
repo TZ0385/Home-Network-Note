@@ -212,9 +212,9 @@ ECC RAM 保障密集计算时，数据绝对正确，线程足够多即使对比
 
 ### HP EliteDesk 800G6 ![Turn On:2023](https://img.shields.io/badge/Turn%20On-2023-brightgreen?style=flat-square)
 
-> 目前已重置，待重新投入使用。
+> 使用各种淘汰硬件重置的另外一台全闪存 NAS。
 
-![Ubuntu:22.04](https://img.shields.io/badge/Ubuntu-22.04-brightgreen?style=flat-square&logo=ubuntu) ![CPU:Intel I3-9100T](https://img.shields.io/badge/CPU-Intel%20I3%209100T(4C4T,%203.10GHz)-brightgreen?style=flat-square&logo=intel) ![RAM:8G](https://img.shields.io/badge/RAM-8GB-brightgreen?style=flat-square) ![Disk:1TB](https://img.shields.io/badge/Disk-0GB-brightgreen?style=flat-square) ![LAN:1000M](https://img.shields.io/badge/LAN-1000M-brightgreen?style=flat-square) ![WiFi:802.11ac](https://img.shields.io/badge/WiFi-802.11ac-brightgreen?style=flat-square)
+![ESXi:7.0u3](https://img.shields.io/badge/ESXi-7.0u3-brightgreen?style=flat-square&logo=vmware) ![Ubuntu:22.04](https://img.shields.io/badge/Ubuntu-22.04-brightgreen?style=flat-square&logo=ubuntu) ![Windows:10](https://img.shields.io/badge/Windows-1--brightgreen?style=flat-square&logo=microsoft) ![CPU:Intel I3-9100T](https://img.shields.io/badge/CPU-Intel%20I3%209100T(4C4T,%203.10GHz)-brightgreen?style=flat-square&logo=intel) ![RAM:32G](https://img.shields.io/badge/RAM-32GB-brightgreen?style=flat-square) ![Disk:4.5TB](https://img.shields.io/badge/Disk-4.5TB-brightgreen?style=flat-square) ![LAN:1000M](https://img.shields.io/badge/LAN-1000M-brightgreen?style=flat-square) ![WiFi:802.11ac](https://img.shields.io/badge/WiFi-802.11ac-brightgreen?style=flat-square)
 
 已重置，待重新投入使用。
 
