@@ -222,6 +222,7 @@ ECC RAM 保障密集计算时，数据绝对正确，线程足够多即使对比
 - 相关文章记录
     - 《[低成本搭建一台家庭存储服务器：前篇](https://soulteary.com/2023/01/15/building-a-home-storage-server-at-low-cost-part-one.html)》
     - 《[低成本搭建一台 Unraid 家庭存储服务器：中篇](https://soulteary.com/2023/01/21/building-a-home-unraid-storage-server-at-low-cost-part-two.html)》
+    - 《[低成本搭建一台家庭存储服务器：全闪存篇](https://soulteary.com/2023/09/17/building-a-home-storage-server-at-low-cost-part-pure-flash.html)》
 
 
 
@@ -264,6 +265,8 @@ ECC RAM 保障密集计算时，数据绝对正确，线程足够多即使对比
 - [4] 干掉持久化的纸质存储，最靠谱的莫过于加密级别的粉碎了，尤其是相对隐私敏感的内容。
 - [5] 在所有电源都带稳流稳压作用后，添加一台UPS可以进一步防止市电闪断带来的数据损坏或者写输出脏掉的问题。在第一块使用了两年后，更换了一块电池，继续战斗，产品质量靠谱。
 - [6] 为数据备份设备单独准备的后备电源。
+
+- 《[硬件笔记：组装“固态 U 盘”的八年，从 100 块到 1000 块](https://soulteary.com/2023/09/16/eight-years-of-assembling-solid-state-usb-disk-from-100-to-1000.html)》
 
 ### 📱 移动设备 & 🎮 游戏设备
 
